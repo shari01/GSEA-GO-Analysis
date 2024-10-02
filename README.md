@@ -1,5 +1,5 @@
-# GSEA_GO_analysis.R
-# GSEA and Gene Ontology Analysis
+# GO_analysis.R
+# Gene Ontology Analysis
 ![GO Barplot](https://github.com/shari01/GSEA-GO-Analysis/blob/master/GO_Barplot.png?raw=true)
 ![GO Barplot](https://github.com/shari01/GSEA-GO-Analysis/blob/master/GO_Dotplot.png?raw=true)
 
